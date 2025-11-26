@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan Perezz",
+        "telefono": "555-1234",
+        "email": "juan.perez@example.com",
+        "direccion": "Calle Falsa 123",
+        "ciudad": "Springfield",
+        "pais": "USA",
+        "fecha_nacimiento": "1990-05-15"
+    },
+    {
+        "id": 2,
+        "nombre": "Maria Garcias",
+        "telefono": "555-5678",
+        "email": "maria.garcia@example.com",
+        "direccion": "Avenida Siempreviva 742",
+        "ciudad": "Springfield",
+        "pais": "USA",
+        "fecha_nacimiento": "1988-11-22"
+    },
+    {
+        "id": 3,
+        "nombre": "Carlos Rodriguez",
+        "telefono": "555-8765",
+        "email": "carlos.r@example.com",
+        "direccion": "Boulevard de los Sue\uff83\uff71os Rotos 45",
+        "ciudad": "Shelbyville",
+        "pais": "USA",
+        "fecha_nacimiento": "1992-01-30"
+    },
+    {
+        "id": 4,
+        "nombre": "Ana Martinez",
+        "telefono": "555-4321",
+        "email": "ana.martinez@example.com",
+        "direccion": "Plaza Mayor 1",
+        "ciudad": "Capital City",
+        "pais": "USA",
+        "fecha_nacimiento": "1995-07-19"
+    },
+    {
+        "id": 5,
+        "nombre": "Luis Hernandez",
+        "telefono": "555-1122",
+        "email": "luis.h@example.com",
+        "direccion": "Calle del Sol 24",
+        "ciudad": "Springfield",
+        "pais": "USA",
+        "fecha_nacimiento": "1985-03-12"
+    },
+    {
+        "id": 6,
+        "nombre": "Laura Lopez",
+        "telefono": "555-3344",
+        "email": "laura.lopez@example.com",
+        "direccion": "Paseo de la Reforma 222",
+        "ciudad": "Mexico City",
+        "pais": "Mexico",
+        "fecha_nacimiento": "1998-09-05"
+    },
+    {
+        "id": 7,
+        "nombre": "Javier Gomez",
+        "telefono": "555-5566",
+        "email": "javier.g@example.com",
+        "direccion": "Gran V\uff83\uff6da 50",
+        "ciudad": "Madrid",
+        "pais": "Spain",
+        "fecha_nacimiento": "1991-12-01"
+    },
+    {
+        "id": 8,
+        "nombre": "Sofia Diaz",
+        "telefono": "555-7788",
+        "email": "sofia.diaz@example.com",
+        "direccion": "Corrientes 348",
+        "ciudad": "Buenos Aires",
+        "pais": "Argentina",
+        "fecha_nacimiento": "1993-02-25"
+    },
+    {
+        "id": 9,
+        "nombre": "David Moreno",
+        "telefono": "555-9900",
+        "email": "david.moreno@example.com",
+        "direccion": "Calle 85 #12-34",
+        "ciudad": "Bogota",
+        "pais": "Colombia",
+        "fecha_nacimiento": "1989-06-10"
+    },
+    {
+        "id": 10,
+        "nombre": "Elena Alvarez",
+        "telefono": "555-1212",
+        "email": "elena.a@example.com",
+        "direccion": "Av. Paulista 1578",
+        "ciudad": "Sao Paulo",
+        "pais": "Brazil",
+        "fecha_nacimiento": "1996-08-14"
+    },
+    {
+        "id": 11,
+        "nombre": "Pablo Romero",
+        "telefono": "555-3434",
+        "email": "pablo.romero@example.com",
+        "direccion": "Merced 391",
+        "ciudad": "Santiago",
+        "pais": "Chile",
+        "fecha_nacimiento": "1994-04-03"
+    },
+    {
+        "id": 12,
+        "nombre": "Lucia Ruiz",
+        "telefono": "555-5656",
+        "email": "lucia.ruiz@example.com",
+        "direccion": "Jr. de la Union 899",
+        "ciudad": "Lima",
+        "pais": "Peru",
+        "fecha_nacimiento": "1997-10-28"
+    },
+    {
+        "id": 13,
+        "nombre": "Adrian Navarro",
+        "telefono": "555-7878",
+        "email": "adrian.n@example.com",
+        "direccion": "Main Street 100",
+        "ciudad": "London",
+        "pais": "UK",
+        "fecha_nacimiento": "1987-07-07"
+    },
+    {
+        "id": 14,
+        "nombre": "Carmen Torres",
+        "telefono": "555-9090",
+        "email": "carmen.t@example.com",
+        "direccion": "Rue de Rivoli 5",
+        "ciudad": "Paris",
+        "pais": "France",
+        "fecha_nacimiento": "1990-11-11"
+    },
+    {
+        "id": 15,
+        "nombre": "Sergio Ramos",
+        "telefono": "555-2468",
+        "email": "sergio.ramos@example.com",
+        "direccion": "Via del Corso 10",
+        "ciudad": "Rome",
+        "pais": "Italy",
+        "fecha_nacimiento": "1986-03-30"
+    },
+    {
+        "id": 16,
+        "nombre": "Isabel Reyes",
+        "telefono": "555-1357",
+        "email": "isabel.reyes@example.com",
+        "direccion": "Unter den Linden 77",
+        "ciudad": "Berlin",
+        "pais": "Germany",
+        "fecha_nacimiento": "1999-01-01"
+    },
+    {
+        "id": 17,
+        "nombre": "Jorge Soto",
+        "telefono": "555-8642",
+        "email": "jorge.soto@example.com",
+        "direccion": "Shibuya Crossing 1",
+        "ciudad": "Tokyo",
+        "pais": "Japan",
+        "fecha_nacimiento": "1984-08-20"
+    },
+    {
+        "id": 18,
+        "nombre": "Valeria Mendoza",
+        "telefono": "555-9753",
+        "email": "valeria.m@example.com",
+        "direccion": "George Street 580",
+        "ciudad": "Sydney",
+        "pais": "Australia",
+        "fecha_nacimiento": "1992-05-25"
+    },
+    {
+        "id": 19,
+        "nombre": "Ricardo Castillo",
+        "telefono": "555-2345",
+        "email": "ricardo.c@example.com",
+        "direccion": "Yonge Street 1",
+        "ciudad": "Toronto",
+        "pais": "Canada",
+        "fecha_nacimiento": "1988-06-30"
+    },
+    {
+        "id": 20,
+        "nombre": "Gabriela Ortega",
+        "telefono": "555-6789",
+        "email": "gabriela.o@example.com",
+        "direccion": "Red Square 3",
+        "ciudad": "Moscow",
+        "pais": "Russia",
+        "fecha_nacimiento": "1991-04-18"
+    }
+]

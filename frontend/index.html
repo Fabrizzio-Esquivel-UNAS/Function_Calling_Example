@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agenda Telefónica</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Agenda Telefónica</h1>
+
+    <!-- Formulario para CRUD de Contactos -->
+    <div class="crud-container">
+        <h2>Administrar Contactos</h2>
+        <form id="search-form">
+            <input type="number" id="search-id" placeholder="Buscar por ID">
+            <button type="submit">Buscar</button>
+            <button type="button" id="reset-search">Mostrar Todos</button>
+        </form>
+        <form id="contact-form">
+            <input type="hidden" id="contact-id">
+            <input type="text" id="nombre" placeholder="Nombre" required>
+            <input type="text" id="telefono" placeholder="Teléfono" required>
+            <input type="email" id="email" placeholder="Email">
+            <input type="text" id="direccion" placeholder="Dirección">
+            <input type="text" id="ciudad" placeholder="Ciudad">
+            <input type="text" id="pais" placeholder="País">
+            <input type="date" id="fecha_nacimiento" placeholder="Fecha de Nacimiento">
+            <button type="submit">Guardar Contacto</button>
+            <button type="button" id="clear-form">Limpiar</button>
+        </form>
+        <div id="contact-list"></div>
+    </div>
+
+    <!-- Interfaz de Chat -->
+    <div class="chat-container">
+        <h2>Chat con Asistente</h2>
+        <div id="chat-box"></div>
+        <form id="chat-form">
+            <input type="text" id="chat-input" placeholder="Escribe tu mensaje..." required>
+            <button type="submit" id="chat-submit-btn">Enviar</button>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
