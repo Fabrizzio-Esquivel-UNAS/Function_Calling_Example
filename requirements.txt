@@ -1,0 +1,7 @@
+fastapi
+pydantic
+requests
+jmespath
+openai
+uvicorn
+python-dotenv
